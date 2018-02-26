@@ -1,2 +1,2 @@
 # Data-Structures-Notes
-It includes code for various data structures Notes from Udemy as I am completing  my Udemy course
+It includes Notes,PPT for various data structures Implementation from Udemy as I am completing  my Udemy course
