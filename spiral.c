@@ -1,3 +1,5 @@
+/* Printing Matrix in spiral   */
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
